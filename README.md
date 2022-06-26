@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Hi there, I'm Kanhaiya Bhatt [kb-s]
+=======
+
+# Hi there 👋, I'm Kanhaiya Bhatt [kb-s]
+>>>>>>> 753a8c640a1e5ec06952ba931bdf7ca710749a0e
 
 ## I'm a Developer!!
 
@@ -20,8 +25,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kanhaiya-bhatt/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kanhaiya-bhatt/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg)](https://instagram.com/iam_kb)2#gh-light-mode-only)
-[![website](https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg)](https://instagram.com/iam_kb02#gh-dark-mode-only)
+
 
 
  
