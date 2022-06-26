@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Hi there, I'm Kanhaiya Bhatt [kb-s]
-=======
-
 # Hi there 👋, I'm Kanhaiya Bhatt [kb-s]
->>>>>>> 753a8c640a1e5ec06952ba931bdf7ca710749a0e
 
 ## I'm a Developer!!
 
