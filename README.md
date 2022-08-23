@@ -15,7 +15,6 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=kb-s&title=Followers
 
 
 
