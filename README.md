@@ -11,7 +11,7 @@
 - 📫 How to reach me: kanhaiyabhatt41952@gmail.com
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kb-s)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
 
 
 
