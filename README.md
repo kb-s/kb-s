@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Kanhaiya Bhatt [kb-s]
+![Twitter Follow](https://img.shields.io/twitter/follow/kbhattst?style=social)
 
 ## I'm a Developer!!
 
